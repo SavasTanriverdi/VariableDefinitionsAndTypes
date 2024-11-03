@@ -1,0 +1,14 @@
+C:\Users\savas\RiderProjects\VariableDefinitionsAndTypes\VariableDefinitionsAndTypes\bin\Debug\net8.0\VariableDefinitionsAndTypes.exe
+C:\Users\savas\RiderProjects\VariableDefinitionsAndTypes\VariableDefinitionsAndTypes\bin\Debug\net8.0\VariableDefinitionsAndTypes.deps.json
+C:\Users\savas\RiderProjects\VariableDefinitionsAndTypes\VariableDefinitionsAndTypes\bin\Debug\net8.0\VariableDefinitionsAndTypes.runtimeconfig.json
+C:\Users\savas\RiderProjects\VariableDefinitionsAndTypes\VariableDefinitionsAndTypes\bin\Debug\net8.0\VariableDefinitionsAndTypes.dll
+C:\Users\savas\RiderProjects\VariableDefinitionsAndTypes\VariableDefinitionsAndTypes\bin\Debug\net8.0\VariableDefinitionsAndTypes.pdb
+C:\Users\savas\RiderProjects\VariableDefinitionsAndTypes\VariableDefinitionsAndTypes\obj\Debug\net8.0\VariableDefinitionsAndTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savas\RiderProjects\VariableDefinitionsAndTypes\VariableDefinitionsAndTypes\obj\Debug\net8.0\VariableDefinitionsAndTypes.AssemblyInfoInputs.cache
+C:\Users\savas\RiderProjects\VariableDefinitionsAndTypes\VariableDefinitionsAndTypes\obj\Debug\net8.0\VariableDefinitionsAndTypes.AssemblyInfo.cs
+C:\Users\savas\RiderProjects\VariableDefinitionsAndTypes\VariableDefinitionsAndTypes\obj\Debug\net8.0\VariableDefinitionsAndTypes.csproj.CoreCompileInputs.cache
+C:\Users\savas\RiderProjects\VariableDefinitionsAndTypes\VariableDefinitionsAndTypes\obj\Debug\net8.0\VariableDefinitionsAndTypes.dll
+C:\Users\savas\RiderProjects\VariableDefinitionsAndTypes\VariableDefinitionsAndTypes\obj\Debug\net8.0\refint\VariableDefinitionsAndTypes.dll
+C:\Users\savas\RiderProjects\VariableDefinitionsAndTypes\VariableDefinitionsAndTypes\obj\Debug\net8.0\VariableDefinitionsAndTypes.pdb
+C:\Users\savas\RiderProjects\VariableDefinitionsAndTypes\VariableDefinitionsAndTypes\obj\Debug\net8.0\VariableDefinitionsAndTypes.genruntimeconfig.cache
+C:\Users\savas\RiderProjects\VariableDefinitionsAndTypes\VariableDefinitionsAndTypes\obj\Debug\net8.0\ref\VariableDefinitionsAndTypes.dll
